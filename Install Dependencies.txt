@@ -1,0 +1,7 @@
+Install Dependencies: You need to install the necessary libraries:
+
+pip install tensorflow matplotlib numpy
+
+
+
+
